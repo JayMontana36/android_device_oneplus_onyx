@@ -1,4 +1,7 @@
-Unified Device Tree For TGnCO LUNA TG-L800s (FIH phx)
+Unified Device Tree For
+TGnCO LUNA TG-L800s
+Infocus M812
+Infocus M812A
 ==================================
 
 Basic   | Spec Sheet

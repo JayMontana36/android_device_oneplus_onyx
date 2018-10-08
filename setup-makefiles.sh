@@ -20,8 +20,8 @@ set -e
 export INITIAL_COPYRIGHT_YEAR=2016
 
 # Required!
-DEVICE=onyx
-VENDOR=oneplus
+DEVICE=phx
+VENDOR=fih
 
 # Load extractutils and do some sanity checks
 MY_DIR="${BASH_SOURCE%/*}"

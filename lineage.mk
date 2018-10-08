@@ -24,12 +24,12 @@ $(call inherit-product, vendor/cm/config/common_full_phone.mk)
 # Call the proprietary setup
 $(call inherit-product-if-exists, vendor/oneplus/onyx/onyx-vendor.mk)
 
-PRODUCT_NAME := lineage_onyx
-PRODUCT_DEVICE := onyx
-PRODUCT_MANUFACTURER := OnePlus
+PRODUCT_NAME := lineage_phx
+PRODUCT_DEVICE := phx
+PRODUCT_MANUFACTURER := TGnCO
 
-PRODUCT_GMS_CLIENTID_BASE := android-oneplus
+PRODUCT_GMS_CLIENTID_BASE := android-phx
 
-PRODUCT_BRAND := OnePlus
-TARGET_VENDOR := oneplus
-TARGET_VENDOR_PRODUCT_NAME := onyx
+PRODUCT_BRAND := TGnCO
+TARGET_VENDOR := tgnco
+TARGET_VENDOR_PRODUCT_NAME := phx
